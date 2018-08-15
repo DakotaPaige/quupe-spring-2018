@@ -1,6 +1,13 @@
 # Quupe
 Quupe is an items sharing app built in React Native. The app uses Redux for state management, and Apollo Client and GraphQL for data fetching. On the back end, the app is built on Graphcool which handles functionality for user authentication, as well as Realm for storing the login token.
 
+<div style="width: 100%; display: flex;">
+<img src="quupe-RN/js/assets/images/quupe-front.png" alt="Quupe Front Screen" width="200" />
+<img src="quupe-RN/js/assets/images/quupe-home.png" alt="Quupe Home Screen" width="200" />
+<img src="quupe-RN/js/assets/images/quupe-map.png" alt="Quupe Map Screen" width="200" />
+<img src="quupe-RN/js/assets/images/quupe-borrowed.png" alt="Quupe Borrowed Screen" width="200" />
+</div>
+
 ## Components Used
 
 - React Native Calendars: https://github.com/wix/react-native-calendars
